@@ -1,0 +1,35 @@
+{
+  "name": "portfolio-profile-getter",
+  "version": "1.0.0",
+  "description": "Get detailed profiles of holdings, providing valuable insights for investment strategies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candycarcrash/portfolio-profile-getter"
+  },
+  "author": "candycarcrash",
+  "license": "MIT",
+  "dependencies": {
+    "portfolio-performance-analyzer": "1.0.0",
+    "portfolio-profile-getter": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "debug": "1.0.0",
+    "jquery": "1.0.0",
+    "babel-core": "1.0.0",
+    "fs-extra": "1.0.0",
+    "dotenv": "1.0.0",
+    "sequelize": "1.0.0",
+    "pg": "1.0.0",
+    "socket.io": "1.0.0",
+    "chalk": "1.0.0",
+    "react-dom": "1.0.0",
+    "sinon": "1.0.0",
+    "underscore": "1.0.0",
+    "truffle": "1.0.0",
+    "bluebird": "1.0.0",
+    "mysql": "1.0.0"
+  }
+}
